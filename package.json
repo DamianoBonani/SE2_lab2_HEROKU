@@ -1,0 +1,24 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "esercizio 17-11-2016: utilizzo di HEROKU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start:" "node index.js"	 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianoBonani/SE2_lab2_HEROKU.git"
+  },
+  "author": "damianobonani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianoBonani/SE2_lab2_HEROKU/issues"
+  },
+  "homepage": "https://github.com/DamianoBonani/SE2_lab2_HEROKU#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  }
+}
